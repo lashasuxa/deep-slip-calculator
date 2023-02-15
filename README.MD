@@ -13,3 +13,7 @@
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
+
+### Built with
+
+- Vanilla JS
